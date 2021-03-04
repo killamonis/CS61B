@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b3e7e4c-ef19-4a36-9a03-6fa17ae6e262" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab2setup/GetEnvironmentVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2setup/GetEnvironmentVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-fa20" beforeDir="false" afterPath="$PROJECT_DIR$/../library-fa20" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iQn1ncS9v3TdHlzGN8jcNmjtv9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.InteractivePercolationVisualizer" />
+      <module name="hw2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.Percolation" />
+      <module name="hw2" />
+      <option name="PROGRAM_PARAMETERS" value="inputFiles/input20.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.PercolationStats" />
+      <module name="hw2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.PercolationVisualizer" />
+      <module name="hw2" />
+      <option name="PROGRAM_PARAMETERS" value="inputFiles/input20.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages " />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InteractivePercolationVisualizer" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.Percolation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.Percolation" />
+        <item itemvalue="Application.InteractivePercolationVisualizer" />
+        <item itemvalue="Application.PercolationVisualizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b3e7e4c-ef19-4a36-9a03-6fa17ae6e262" name="Default Changelist" comment="" />
+      <created>1601848471069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601848471069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601948427184">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="183" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601948427184" />
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom" timestamp="1602269890247">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="205" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601958225716" />
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890247" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center" timestamp="1602269890231">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="205" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601958225715" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890231" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left" timestamp="1602269890220">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="205" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601958225714" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890220" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right" timestamp="1602269890244">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="205" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601958225715" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890244" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom" timestamp="1602269890406">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601958197768" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890405" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center" timestamp="1602269890390">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1601958197767" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890390" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left" timestamp="1602269890264">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1601958197767" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890264" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right" timestamp="1602269890395">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1601958197768" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1602269890395" />
+    <state x="207" y="23" key="SettingsEditor" timestamp="1601848491378">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="207" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601848491378" />
+    <state x="416" y="341" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601848478817">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="416" y="341" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601848478817" />
+    <state x="242" y="165" width="954" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601943732713">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="242" y="165" width="954" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601943732713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
