@@ -1,0 +1,8 @@
+Length 15
+String #: 1000
+0.01 for all
+
+Length 15
+String #: 10000000
+2.05
+0.56
