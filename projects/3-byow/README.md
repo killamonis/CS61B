@@ -4,6 +4,7 @@
 
 **Partner 2:** Monis Mohiuddin
 
+**Video Walkthrough** https://www.youtube.com/watch?v=OTI5Bobs39M&t=116s
 ## Classes and Data Structure
 
 **Engine:** Takes in and processes user input.
